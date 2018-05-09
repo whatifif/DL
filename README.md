@@ -4,7 +4,7 @@ study for deeplearning.ai
 ## study
 1. when: 2018.05.02 ~ 2018.06.20 ( 8 weeks ) every wednesday 5:30 pm ~ 7:30 pm
 2. where: servian (Level 36 - 60 Margaret St, Sydney NSW 2000)
-3. who: sysdenymachinelearning meetup/deeplearning.ai study
+3. who: sysdenymachinelearning meetup/deeplearning.ai study/harry_potters
 
 ## How to complete this course under 3 days for free
 Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 3 days for free
