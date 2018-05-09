@@ -2,9 +2,9 @@
 study for deeplearning.ai
 
 ## study
-when: 2018.05.02 ~ 2018.06.20 ( 8 weeks )
-where: servian 
-who: sysdenymachinelearning meetup/deeplearning.ai study
+1. when: 2018.05.02 ~ 2018.06.20 ( 8 weeks )
+2. where: servian 
+3. who: sysdenymachinelearning meetup/deeplearning.ai study
 
 ## course video
 [https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K](https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
