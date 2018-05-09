@@ -2,8 +2,8 @@
 study for deeplearning.ai
 
 ## study
-1. when: 2018.05.02 ~ 2018.06.20 ( 8 weeks )
-2. where: servian 
+1. when: 2018.05.02 ~ 2018.06.20 ( 8 weeks ) 5:30 pm ~ 7:30 pm
+2. where: servian (Level 36 - 60 Margaret St, Sydney NSW 2000)
 3. who: sysdenymachinelearning meetup/deeplearning.ai study
 
 ## How to complete this course under 3 days for free
