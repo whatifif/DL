@@ -6,6 +6,9 @@ study for deeplearning.ai
 2. where: servian 
 3. who: sysdenymachinelearning meetup/deeplearning.ai study
 
+## How to complete this course under 3 days for free
+Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 3 days for free
+[https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K](https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 ## course video
 [https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K](https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
