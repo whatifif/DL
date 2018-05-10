@@ -18,8 +18,6 @@ Set the "runtime / change runtime type" to "GPU"<br/>
 Uncheck "omit code cell out when saving this notebook"<br/><br/>
 
 #### coure1
-1. course1-week2-Copy of Week 2 - PA- Logistic Regression with a Neural Network mindset.ipynb<br/>
-[Copy of Week 2 - PA- Logistic Regression with a Neural Network mindset.ipynb](https://colab.research.google.com/drive/1ZqIj98XZVGdTgZQi-Sw-99QO2DSl4lj1)
+1. Copy of Week 2 - PA- Logistic Regression with a Neural Network mindset.ipynb<br/>
 
 2. Copy of Week 3 -PA- Planar data classification with one hidden layer.ipynb<br>
-[Copy of Week 3 -PA- Planar data classification with one hidden layer.ipynb](https://colab.research.google.com/drive/1Bh-4jGvOIM9rwJ8DRs6-o2IxL9EnBzHw)
