@@ -1,5 +1,5 @@
 # deeplearning.ai
-study for deeplearning.ai of coursera 
+study for deeplearning.ai of coursera <br>
 [https://www.coursera.org/learn/neural-networks-deep-learning/](https://www.coursera.org/learn/neural-networks-deep-learning/)
 
 ## study
