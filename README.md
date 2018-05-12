@@ -28,3 +28,11 @@ Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 
 [https://colab.research.google.com/drive/1a6XtlE-2R3VFCPwTfmg9wo3e6eOS60f1](https://colab.research.google.com/drive/1a6XtlE-2R3VFCPwTfmg9wo3e6eOS60f1)
 
 3. 
+
+
+## resources
+1. What is backpropagation really doing? | Chapter 3, deep learning<br>
+[https://www.youtube.com/watch?v=Ilg3gGewQ5U](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+2. Neural Networks Demystified [Part 4: Backpropagation]<br>
+[https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=3](https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=3)
