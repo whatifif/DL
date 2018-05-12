@@ -1,6 +1,7 @@
 # deeplearning.ai
 study for deeplearning.ai of coursera <br>
 [https://www.coursera.org/learn/neural-networks-deep-learning/](https://www.coursera.org/learn/neural-networks-deep-learning/)
+<br> Google colab (GPU mode) is used to run the homeworks.
 
 ## study
 1. when: 2018.05.02 ~ 2018.06.20 ( 8 weeks ) every wednesday 5:30 pm ~ 7:30 pm
