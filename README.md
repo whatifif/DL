@@ -15,9 +15,9 @@ Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 
 [https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K](https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
 ## homework
-Take a copy by "file / save a copy in drive" and use the copy.<br/>
-Set the "runtime / change runtime type" to "GPU"<br/> 
-Uncheck "omit code cell out when saving this notebook"<br/><br/>
+. Take a copy by "file / save a copy in drive" and use the copy.<br/>
+. Set the "runtime / change runtime type" to "GPU"<br/> 
+. Uncheck "omit code cell out when saving this notebook"<br/><br/>
 
 #### coure1
 1. Copy of Week 2 - PA- Logistic Regression with a Neural Network mindset.ipynb<br/>
