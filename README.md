@@ -19,28 +19,28 @@ Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 
 [https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K](https://www.youtube.com/playlist?list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
 ## Course Contents
-#### Neural Networks and Deep Learning
+#### 1. Neural Networks and Deep Learning
 <li>Week1　Introduction to deep learning
 <li>Week2　Neural Networks Basics
 <li>Week3　Shallow Neural networks
 <li>Week4　Deep Neural Networks
 
-#### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+#### 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 <li>Week1　Practical aspects of Deep Learning
 <li>Week2　Optimization algorithms
 <li>Week3　Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
-#### Structuring Machine Learning Projects
+#### 3. Structuring Machine Learning Projects
 <li>Week1 ML Strategy (1)
 <li>Week2 ML Strategy (2)
 
-#### Convolutional Neural Network
+#### 4. Convolutional Neural Network
 <li>Week1　Foundations of Convolutional Neural Networks
 <li>Week2　Deep convolutional models: case studies
 <li>Week3　Object detection
 <li>Week4　Special applications: Face recognition & Neural style transfer
 
-#### Sequence Models
+#### 5. Sequence Models
 <li>Week1　Recurrent Neural Networks
 <li>Week2　Natural Language Processing & Word Embeddings
 <li>Week3　Sequence models & Attention mechanism
