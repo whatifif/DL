@@ -20,10 +20,10 @@ Complete Neural Networks and Deep Learning by deeplearning.ai on Coursera under 
 
 ## Course Contents
 #### Neural Networks and Deep Learning
-Week1　Introduction to deep learning
-Week2　Neural Networks Basics
-Week3　Shallow Neural networks
-Week4　Deep Neural Networks
+. Week1　Introduction to deep learning
+. Week2　Neural Networks Basics
+. Week3　Shallow Neural networks
+. Week4　Deep Neural Networks
 
 #### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 Week1　Practical aspects of Deep Learning
